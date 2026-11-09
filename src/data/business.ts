@@ -1,0 +1,27 @@
+export const business = {
+  name: "Prestige Appliance LLC",
+  phone: "+1 (954) 234-9371",
+  phoneRaw: "+19542349371",
+  phoneDisplay: "(954) 234-9371",
+  category: "Appliance Repair Service",
+  website: "https://www.prestigeappliancellc.com/",
+  googleMaps: "https://maps.app.goo.gl/SBeUTkRkom1UGk9G",
+  primaryCity: "Deerfield Beach",
+  state: "FL",
+  zip: "33441",
+  region: "South Florida",
+  spanishSpeaking: true,
+  yearsExperience: 6,
+  warranty: true,
+  mapEmbed:
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d458073.64185937616!2d-80.19270055!3d26.238925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7435108fb924cb7%3A0xcf2d6441ee506d55!2sPrestige%20Appliance%20LLC!5e0!3m2!1sen!2sin!4v1794199909556!5m2!1sen!2sin",
+  hours: [
+    { day: "Monday", hours: "8:00 AM – 9:00 PM" },
+    { day: "Tuesday", hours: "8:00 AM – 9:00 PM" },
+    { day: "Wednesday", hours: "8:00 AM – 6:00 PM" },
+    { day: "Thursday", hours: "9:00 AM – 9:00 PM" },
+    { day: "Friday", hours: "9:00 AM – 6:00 PM" },
+    { day: "Saturday", hours: "9:00 AM – 9:00 PM" },
+    { day: "Sunday", hours: "Closed" },
+  ],
+};
